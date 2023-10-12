@@ -33,6 +33,7 @@ public class StringTask {
 			System.out.println("Lowercase Count = " + l);
 			System.out.println("Digits Count = " + n);
 			System.out.println("SpecialChar Count = " + c);
+			System.out.println("hello");
 
 
 	}
